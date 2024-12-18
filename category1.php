@@ -1,0 +1,1 @@
+<h2 class="mt-5">Welcome to the Category1 Page</h2>
